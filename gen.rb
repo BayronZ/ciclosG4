@@ -20,4 +20,4 @@ def gen(num)
     return texto
 end
 
-puts gen(26)
+puts gen(900)
